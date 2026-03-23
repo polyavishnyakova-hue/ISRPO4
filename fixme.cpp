@@ -35,3 +35,4 @@ int main() {
 
 }// My change for conflict
 }// Diana's conflicting change// Second change: add a comment
+// Third change: refactor function
